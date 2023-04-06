@@ -29,9 +29,9 @@ export const projectsData = [
   {
     id: 4,
     image: Work4,
-    title: "Social media app - MERN ",
+    title: "DALL-E-2.0",
     category: "back-end",
-    link: "https://github.com/fioremartiro/SocialMediaApp-MERN",
+    link: "https://github.com/fioremartiro/DALL-E-2.0",
   },
   {
     id: 5,
