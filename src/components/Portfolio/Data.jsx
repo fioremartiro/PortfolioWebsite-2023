@@ -1,23 +1,23 @@
-import Work1 from "../../assets/work1.jpg";
-import Work2 from "../../assets/work2.jpg";
+import Work1 from "../../assets/work1.png";
+import Work2 from "../../assets/work2.png";
 import Work3 from "../../assets/work3.jpg";
-import Work4 from "../../assets/work4.jpg";
-import Work5 from "../../assets/work5.jpg";
+import Work4 from "../../assets/work4.png";
+import Work5 from "../../assets/work5.png";
 
 export const projectsData = [
   {
     id: 1,
     image: Work1,
     title: "ChatGPT3 - React",
-    category: "front-end",
-    link: "https://github.com/fioremartiro/ChatGPT3-React",
+    category: "full-stack",
+    link: "http://chatgpt3.fiorellamartiro.com/",
   },
   {
     id: 2,
     image: Work2,
-    title: "Restaurant review's app - MERN",
-    category: "back-end",
-    link: "https://github.com/fioremartiro/RestaurantReviewApp-MERN",
+    title: "Space Engineering",
+    category: "full-stack",
+    link: "https://www.spaceengineeringcr.com/",
   },
   {
     id: 3,
@@ -30,14 +30,14 @@ export const projectsData = [
     id: 4,
     image: Work4,
     title: "DALL-E-2.0",
-    category: "back-end",
-    link: "https://github.com/fioremartiro/DALL-E-2.0",
+    category: "full-stack",
+    link: "https://dalle.fiorellamartiro.com/",
   },
   {
     id: 5,
     image: Work5,
     title: "Portafolio Website - 2023",
-    category: "front-end",
+    category: "full-stack",
     link: "https://github.com/fioremartiro/PortafolioWebsite-2023",
   },
 ];
@@ -48,10 +48,7 @@ export const projectsNav = [
     name: "all",
   },
   {
-    name: "front-end",
-  },
-  {
-    name: "back-end",
+    name: "full-stack",
   },
   {
     name: "data-analysis",
