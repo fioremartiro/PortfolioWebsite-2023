@@ -3,7 +3,7 @@ import React from "react";
 const Backend = () => {
   return (
     <div className="skills__content">
-      <h3 className="skills__title">Backend Developer</h3>
+      <h3 className="skills__title">Cloud Engineering</h3>
 
       <div className="skills__box">
         <div className="skills__group">
@@ -11,7 +11,7 @@ const Backend = () => {
             <i class="bx bx-badge-check"></i>
 
             <div>
-              <h3 className="skills__name">Node.js</h3>
+              <h3 className="skills__name">AWS</h3>
               <span className="skills__level">Intermediate</span>
             </div>
           </div>
@@ -20,7 +20,7 @@ const Backend = () => {
             <i class="bx bx-badge-check"></i>
 
             <div>
-              <h3 className="skills__name">Python</h3>
+              <h3 className="skills__name">Azure</h3>
               <span className="skills__level">Intermediate</span>
             </div>
           </div>
@@ -29,7 +29,7 @@ const Backend = () => {
             <i class="bx bx-badge-check"></i>
 
             <div>
-              <h3 className="skills__name">Microsoft Azure</h3>
+              <h3 className="skills__name">GCP</h3>
               <span className="skills__level">Intermediate</span>
             </div>
           </div>
@@ -40,7 +40,7 @@ const Backend = () => {
             <i class="bx bx-badge-check"></i>
 
             <div>
-              <h3 className="skills__name">Firebase</h3>
+              <h3 className="skills__name">Cloud Security</h3>
               <span className="skills__level">Intermediate</span>
             </div>
           </div>
@@ -49,7 +49,7 @@ const Backend = () => {
             <i class="bx bx-badge-check"></i>
 
             <div>
-              <h3 className="skills__name">SQL</h3>
+              <h3 className="skills__name">Networking</h3>
               <span className="skills__level">Intermediate</span>
             </div>
           </div>
@@ -58,7 +58,7 @@ const Backend = () => {
             <i class="bx bx-badge-check"></i>
 
             <div>
-              <h3 className="skills__name">NoSQL</h3>
+              <h3 className="skills__name">DevOps</h3>
               <span className="skills__level">Intermediate</span>
             </div>
           </div>

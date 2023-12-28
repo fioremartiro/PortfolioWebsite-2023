@@ -4,12 +4,10 @@ const Data = () => {
   return (
     <div className="home__data">
       <h1 className="home__title">Fiorella Martinez</h1>
-      <h3 className="home__subtitle">Front-End Engineer</h3>
+      <h3 className="home__subtitle">Software Engineer</h3>
       <p className="home__description">
-        Experienced Front-End Engineer skilled in developing and implementing
-        user interfaces for web applications. Committed to continuous learning
-        and staying up-to-date with emerging technologies and trends in the
-        industry.
+        Experienced Software Engineer specializing in Cloud Computing,
+        Cybersecurity and Python Automation.
       </p>
 
       <a href="#contact" className="button button--flex">

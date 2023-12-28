@@ -1,7 +1,7 @@
 import React from "react";
 import "./about.css";
-import AboutImg from "../../assets/about.jpg";
-import CV from "../../assets/resume2023.pdf";
+import AboutImg from "../../assets/aboutImage.jpg";
+import CV from "../../assets/softwareEngineer.pdf";
 import Info from "./Info";
 
 const About = () => {
@@ -17,14 +17,10 @@ const About = () => {
           <Info />
 
           <p className="about__description">
-            Passionate about creating exceptional user experiences for web
-            applications. With several years of experience in developing and
-            implementing user interfaces. I pride myself on my ability to design
-            and implement responsive, cross-browser compatible, and accessible
-            user interfaces that meet both user and business needs. With a
-            strong commitment to continuous learning and staying up-to-date with
-            emerging technologies and trends, I am always looking for new ways
-            to improve my skills and deliver innovative solutions.
+            Proficient in architecting and securing cloud-based systems and
+            automating tasks with Python. Committed to continuous learning and
+            staying up-to-date with emerging technologies and trends in the
+            industry.
           </p>
 
           <a download="" href={CV} className="button button--flex">

@@ -11,14 +11,14 @@ const Services = () => {
   return (
     <section className="services section" id="services">
       <h2 className="section__title">Services</h2>
-      <span className="section__subtitle">What i offer</span>
+      <span className="section__subtitle">What I offer</span>
 
       <div className="services__container container grid">
         <div className="services__content">
           <div>
             <i className="uil uil-arrow services__icon"></i>
             <h3 className="services__title">
-              Front-End <br /> Development
+              Full-Stack <br /> Engineering
             </h3>
           </div>
 
@@ -40,7 +40,7 @@ const Services = () => {
                 className="uil uil-times services__modal-close"
               ></i>
 
-              <h3 className="services__modal-title">Front-End Development.</h3>
+              <h3 className="services__modal-title">Full Stack Engineering</h3>
               <p className="services__modal-description">
                 More than 4 years of experienc in this field.
               </p>
@@ -49,33 +49,33 @@ const Services = () => {
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
                   <p className="services__modal-info">
-                    Implementing User Interface Designs.
+                    Design and implement user interfaces using JavaScript and
+                    React for web applications.
                   </p>
                 </li>
 
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
                   <p className="services__modal-info">
-                    Ensuring Cross-Browser Compatibility.
+                    Develop server-side logic and backend components using
+                    Python.
                   </p>
                 </li>
 
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
                   <p className="services__modal-info">
-                    Optimizing Website Performance.
+                    Design and manage relational databases (SQL) and
+                    non-relational databases (NoSQL) to store and retrieve data
+                    efficiently.
                   </p>
                 </li>
 
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
-                  <p className="services__modal-info">Testing and Debugging.</p>
-                </li>
-
-                <li className="services__modal-service">
-                  <i className="uil uil-check-circle services__modal-icon"></i>
                   <p className="services__modal-info">
-                    Staying Up-to-Date with Latest Web Technologies.
+                    Design and implement RESTful APIs for communication between
+                    front-end and back-end systems.
                   </p>
                 </li>
               </ul>
@@ -87,7 +87,7 @@ const Services = () => {
           <div>
             <i className="uil uil-arrow services__icon"></i>
             <h3 className="services__title">
-              Back-End <br /> Development
+              Cloud <br /> Engineering
             </h3>
           </div>
 
@@ -109,40 +109,43 @@ const Services = () => {
                 className="uil uil-times services__modal-close"
               ></i>
 
-              <h3 className="services__modal-title">Back-End Development.</h3>
+              <h3 className="services__modal-title">Cloud Engineering</h3>
               <p className="services__modal-description">
-                More than 2 years of experience in this field.
+                More than 3 years of experience in this field.
               </p>
 
               <ul className="services__modal-services grid">
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
                   <p className="services__modal-info">
-                    Designing and Developing Server-Side Applications.
+                    Design and implement multi-cloud architectures to meet the
+                    organization's requirements.
                   </p>
                 </li>
 
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
-                  <p className="services__modal-info">Database Management.</p>
-                </li>
-
-                <li className="services__modal-service">
-                  <i className="uil uil-check-circle services__modal-icon"></i>
                   <p className="services__modal-info">
-                    Implementing Security Protocols.
+                    Implement automation scripts and tools to facilitate
+                    seamless integration between different cloud platforms.
                   </p>
                 </li>
 
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
-                  <p className="services__modal-info">Scaling Applications.</p>
+                  <p className="services__modal-info">
+                    Monitor and analyze the performance of multi-cloud
+                    environments to identify and address bottlenecks and
+                    optimize resource utilization.
+                  </p>
                 </li>
 
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
                   <p className="services__modal-info">
-                    Collaborating with Other Developers.
+                    Implement security best practices for multi-cloud
+                    environments, including identity and access management,
+                    encryption, and network security.
                   </p>
                 </li>
               </ul>
@@ -154,7 +157,7 @@ const Services = () => {
           <div>
             <i className="uil uil-arrow services__icon"></i>
             <h3 className="services__title">
-              Data <br /> Analysis
+              Security <br /> Engineering
             </h3>
           </div>
 
@@ -176,7 +179,7 @@ const Services = () => {
                 className="uil uil-times services__modal-close"
               ></i>
 
-              <h3 className="services__modal-title">Data Analysis.</h3>
+              <h3 className="services__modal-title">Security Engineering</h3>
               <p className="services__modal-description">
                 More than 2 years of experience in this field.
               </p>
@@ -185,35 +188,34 @@ const Services = () => {
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
                   <p className="services__modal-info">
-                    Collecting and Analyzing Data.
+                    Design and implement robust security architectures for
+                    organizations.
                   </p>
                 </li>
 
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
                   <p className="services__modal-info">
-                    Creating Reports and Dashboards.
+                    Conduct vulnerability assessments to identify potential
+                    weaknesses in systems and networks.
                   </p>
                 </li>
 
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
                   <p className="services__modal-info">
-                    Identifying Trends and Patterns.
+                    Develop and implement incident response plans, coordinating
+                    with relevant stakeholders to contain and mitigate the
+                    impact of security incidents.
                   </p>
                 </li>
 
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
                   <p className="services__modal-info">
-                    Ensuring Data Quality and Accuracy.
-                  </p>
-                </li>
-
-                <li className="services__modal-service">
-                  <i className="uil uil-check-circle services__modal-icon"></i>
-                  <p className="services__modal-info">
-                    Collaborating with Other Teams.
+                    Contribute to the development of security policies and
+                    procedures that align with industry best practices and
+                    regulatory requirements.
                   </p>
                 </li>
               </ul>
