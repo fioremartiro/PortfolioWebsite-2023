@@ -6,8 +6,7 @@ const Data = () => {
       <h1 className="home__title">Fiorella Martinez</h1>
       <h3 className="home__subtitle">Software Engineer</h3>
       <p className="home__description">
-        Experienced Software Engineer specializing in Cloud Computing,
-        Cybersecurity and Python Automation.
+        Experienced Software Engineer specializing in Full-Stack and Cybersecurity Engineering.
       </p>
 
       <a href="#contact" className="button button--flex">

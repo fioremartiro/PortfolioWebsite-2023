@@ -17,10 +17,9 @@ const About = () => {
           <Info />
 
           <p className="about__description">
-            Proficient in architecting and securing cloud-based systems and
-            automating tasks with Python. Committed to continuous learning and
-            staying up-to-date with emerging technologies and trends in the
-            industry.
+          Passionate about securing digital landscapes for
+the future and committed to continuous learning and staying up-to-date with emerging technologies
+and trends in the industry.
           </p>
 
           <a download="" href={CV} className="button button--flex">
