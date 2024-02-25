@@ -1,21 +1,21 @@
 {
-  "main.css": "/PortfolioWebsite-2023/static/css/main.eb29acd6.chunk.css",
-  "main.js": "/PortfolioWebsite-2023/static/js/main.45155b42.chunk.js",
-  "main.js.map": "/PortfolioWebsite-2023/static/js/main.45155b42.chunk.js.map",
-  "runtime~main.js": "/PortfolioWebsite-2023/static/js/runtime~main.fe6b76da.js",
-  "runtime~main.js.map": "/PortfolioWebsite-2023/static/js/runtime~main.fe6b76da.js.map",
-  "static/js/2.829fde65.chunk.js": "/PortfolioWebsite-2023/static/js/2.829fde65.chunk.js",
-  "static/js/2.829fde65.chunk.js.map": "/PortfolioWebsite-2023/static/js/2.829fde65.chunk.js.map",
-  "index.html": "/PortfolioWebsite-2023/index.html",
-  "precache-manifest.6956e88252219e409a826893eb2cdb1a.js": "/PortfolioWebsite-2023/precache-manifest.6956e88252219e409a826893eb2cdb1a.js",
-  "service-worker.js": "/PortfolioWebsite-2023/service-worker.js",
-  "static/css/main.eb29acd6.chunk.css.map": "/PortfolioWebsite-2023/static/css/main.eb29acd6.chunk.css.map",
-  "static/media/about.jpg": "/PortfolioWebsite-2023/static/media/about.09929dda.jpg",
-  "static/media/home.css": "/PortfolioWebsite-2023/static/media/profile.09929dda.jpg",
-  "static/media/resume2023.pdf": "/PortfolioWebsite-2023/static/media/resume2023.bbf53d4e.pdf",
-  "static/media/work1.jpg": "/PortfolioWebsite-2023/static/media/work1.7f91416f.jpg",
-  "static/media/work2.jpg": "/PortfolioWebsite-2023/static/media/work2.b8553992.jpg",
-  "static/media/work3.jpg": "/PortfolioWebsite-2023/static/media/work3.a139c43d.jpg",
-  "static/media/work4.jpg": "/PortfolioWebsite-2023/static/media/work4.09b0176f.jpg",
-  "static/media/work5.jpg": "/PortfolioWebsite-2023/static/media/work5.cc24c066.jpg"
+  "files": {
+    "main.css": "/static/css/main.68074f0a.css",
+    "main.js": "/static/js/main.88f49ce6.js",
+    "static/media/work4.png": "/static/media/work4.c1bb099fc0e3050c9cb0.png",
+    "static/media/aboutImage.jpg": "/static/media/aboutImage.2f85d37fc96a5ef84b35.jpg",
+    "static/media/work1.png": "/static/media/work1.21fa9f5b200438d9e8bf.png",
+    "static/media/profile.jpg": "/static/media/profile.aaed9b40241b58c57ff5.jpg",
+    "static/media/work3.jpg": "/static/media/work3.29ecf76d40aba75dad77.jpg",
+    "static/media/work2.png": "/static/media/work2.719ecd32f81052370451.png",
+    "static/media/work5.png": "/static/media/work5.e9b9e6b59270729810ee.png",
+    "static/media/softwareEngineer.pdf": "/static/media/softwareEngineer.341a1f2ac0404b22a735.pdf",
+    "index.html": "/index.html",
+    "main.68074f0a.css.map": "/static/css/main.68074f0a.css.map",
+    "main.88f49ce6.js.map": "/static/js/main.88f49ce6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68074f0a.css",
+    "static/js/main.88f49ce6.js"
+  ]
 }
